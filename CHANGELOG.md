@@ -1,6 +1,7 @@
 
 
 Unreleased
+* enable debug [#32](https://github.com/eritikass/alfa-beeta/pull/32)
 * foix [#31](https://github.com/eritikass/alfa-beeta/pull/31)
 * wetwetwet [#30](https://github.com/eritikass/alfa-beeta/pull/30)
 * More banners [#29](https://github.com/eritikass/alfa-beeta/pull/29)
