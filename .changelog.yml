@@ -11,3 +11,5 @@ template: |
 commit_msg: "Update changelog"
 # name of the changelog file where updates will be added
 changelog_file: "CHANGELOG.md"
+# make post to push request once bot has pick it up
+push_message_notify: true
