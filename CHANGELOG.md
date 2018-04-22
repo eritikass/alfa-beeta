@@ -1,6 +1,7 @@
 
 
 Unreleased
+* fix config [#27](https://github.com/eritikass/alfa-beeta/pull/27)
 * cats rule the world! [#26](https://github.com/eritikass/alfa-beeta/pull/26)
 * Update sds [#25](https://github.com/eritikass/alfa-beeta/pull/25)
 * Cats vs Dogs [#24](https://github.com/eritikass/alfa-beeta/pull/24)
