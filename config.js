@@ -1,4 +1,4 @@
 export default {
    // FIXME: remove once in production
-   debug: 0,
+   debug: 1,
 };
