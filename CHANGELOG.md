@@ -1,5 +1,7 @@
 
     HEAD
+    0.1.1
+        * Change app config [#13](https://github.com/eritikass/tpt1/pull/13)
         * Added my name [#6](https://github.com/eritikass/tpt1/pull/6)
     0.1.0
         * Kaspar Jegorov Pull Request [#4](https://github.com/eritikass/tpt1/pull/4)
