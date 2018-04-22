@@ -1,6 +1,7 @@
 
 
 Unreleased
+* change header color to green [#18](https://github.com/eritikass/tpt1/pull/18)
 * Update config [#17](https://github.com/eritikass/tpt1/pull/17)
 * activate app [#15](https://github.com/eritikass/tpt1/pull/15)
 * Fix errors in api [#14](https://github.com/eritikass/tpt1/pull/14)
