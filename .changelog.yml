@@ -1,0 +1,13 @@
+# template used for changelog generation
+template: |
+  {{#for_each_tag}}
+
+  {{tag}}
+  {{#reqs}}
+  * {{title}} [#{{number}}]({{html_url}})
+  {{/reqs}}
+  {{/for_each_tag}}
+# changelog commit message
+commit_msg: "Update changelog"
+# name of the changelog file where updates will be added
+changelog_file: "CHANGELOG.md"
