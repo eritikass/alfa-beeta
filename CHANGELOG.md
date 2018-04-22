@@ -1,6 +1,7 @@
 
 
 Unreleased
+* wetwetwet [#30](https://github.com/eritikass/alfa-beeta/pull/30)
 * More banners [#29](https://github.com/eritikass/alfa-beeta/pull/29)
 * No more... :) [#28](https://github.com/eritikass/alfa-beeta/pull/28)
 * fix config [#27](https://github.com/eritikass/alfa-beeta/pull/27)
