@@ -1,6 +1,7 @@
 
 
 Unreleased
+* Update config.js [#38](https://github.com/eritikass/alfa-beeta/pull/38)
 * Update config.js [#37](https://github.com/eritikass/alfa-beeta/pull/37)
 * sdf [#36](https://github.com/eritikass/alfa-beeta/pull/36)
 * asdg [#35](https://github.com/eritikass/alfa-beeta/pull/35)
