@@ -1,6 +1,7 @@
 
 
 Unreleased
+* Update config.js [#41](https://github.com/eritikass/alfa-beeta/pull/41)
 * Create foobar [#40](https://github.com/eritikass/alfa-beeta/pull/40)
 * Update config.js [#39](https://github.com/eritikass/alfa-beeta/pull/39)
 * Update config.js [#38](https://github.com/eritikass/alfa-beeta/pull/38)
